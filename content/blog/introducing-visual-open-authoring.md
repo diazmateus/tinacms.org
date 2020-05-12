@@ -1,9 +1,9 @@
 ---
-title: Introducing Visual Open Authoring
 date: '2020-03-09T07:00:00.000Z'
 author: Scott Gallant
 draft: false
 consumes: null
+title: Título novo
 ---
 We're focused on improving the independent web as a whole. We want to craft tools that help people build better sites and create better content.
 
